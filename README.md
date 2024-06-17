@@ -9,4 +9,6 @@ Kryteria lokalizacji:
 - na odpowiednim pokryciu terenu
 - powierzchnia poniżej 300 000
 
-Projekt został wykonany w programie ArcMap z wykorzystaniem narzędzia Model Builder.
+Projekt został wykonany w programie ArcMap z wykorzystaniem narzędzia Model Builder
+
+Źródła danych: Geoportal, Corine Land Cover, BDOT10K
